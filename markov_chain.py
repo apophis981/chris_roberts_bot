@@ -10,6 +10,6 @@ class markov:
   # Build the model.
   text_model = markovify.Text(chris_text)
   # Make a message
-  message =  text_model.make_sentence()
+  #message =  text_model.make_sentence()
 
 
